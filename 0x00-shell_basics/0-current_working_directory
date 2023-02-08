@@ -1,2 +1,6 @@
 #!/bin/bash
-echo "/alx-system_engineering-devops/0x00-shell_basics"
+echo "root@0c8e22fe6508:/alx-system_engineering-devops/0x00-shell_basics# pwd                                                               
+
+/alx-system_engineering-devops/0x00-shell_basics"
+
+
